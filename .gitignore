@@ -1,0 +1,5 @@
+.env
+__pycache__/
+.idea/
+pip.ini
+docker-compose-kaspi.yml
